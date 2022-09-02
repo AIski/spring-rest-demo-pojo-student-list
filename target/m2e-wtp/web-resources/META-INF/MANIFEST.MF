@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: andrzejszczepanski
+Build-Jdk: 17.0.4
+Implementation-Title: spring-rest-demo
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.luv2code
+Implementation-URL: https://spring.io/projects/spring-boot/spring-rest-d
+ emo
+Created-By: Maven Integration for Eclipse
+
